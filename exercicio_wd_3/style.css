@@ -1,0 +1,26 @@
+h1 {
+    color: aqua;
+    font-size: 50px;
+}
+
+.css-div {
+    background-color: blueviolet;
+    min-height: 12pt;
+}
+
+.css-div-2 {
+background-color: brown;
+height: 20vh;
+}
+
+html {
+    font-family: "Coming Soon", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  span {
+    font-weight: bold;
+    color: red;
+    background-color: aqua;
+  }
